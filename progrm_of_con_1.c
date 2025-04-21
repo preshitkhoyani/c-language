@@ -7,9 +7,11 @@ int main()
 			
 			printf("enter valu of a:");
 			scanf("%d",&a);
+				
 			
-			b=a/5;
-			printf("%d",b);
+			printf("%f",(float)a/5.0);
+			
+		
 			
 			
 			
